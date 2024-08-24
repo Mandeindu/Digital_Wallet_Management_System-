@@ -56,8 +56,8 @@ To test the functionality, create input files with various scenarios and redirec
 ./digital_wallet < input.txt > output.txt
 Compare output.txt with the expected results.
 
-Screenshots/Media
-https://drive.google.com/drive/folders/1zvpveujlwtCjGB7tx8vFbEtQhvK-akgs?usp=drive_link
+Screenshots/Media:
+(https://imgur.com/a/z6fuSks)
 
 Future
 Additional Features: Implement features like user authentication, transaction history, and more complex sorting algorithms.
