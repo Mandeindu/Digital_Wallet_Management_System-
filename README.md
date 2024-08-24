@@ -57,7 +57,11 @@ To test the functionality, create input files with various scenarios and redirec
 Compare output.txt with the expected results.
 
 Screenshots/Media:
-(https://imgur.com/a/z6fuSks)
+![digital wallet 1](https://github.com/user-attachments/assets/6e317f1f-6c82-4da7-8888-73bb4698590b)
+![Digital wallet 2](https://github.com/user-attachments/assets/15ab02e1-a2e0-4474-ab5c-d65e3e6c6e03)
+
+
+
 
 Future
 Additional Features: Implement features like user authentication, transaction history, and more complex sorting algorithms.
